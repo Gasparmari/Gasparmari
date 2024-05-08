@@ -1,12 +1,18 @@
 # 💫 About Me:
-👋 Hello! I'm [Your Name], a passionate student of Information Systems Engineering in Argentina, with a deep love for programming and software development.<br><br>🚀 At 21, I'm constantly growing and learning, always seeking opportunities to stand out and contribute to exciting new projects. My goal is to excel in the world of technology, bringing my creativity and technical skills to every challenge I face.<br><br>💻 I'm open to new opportunities and collaborations on innovative projects. Feel free to reach out if you think I could be a valuable addition to your team!
+👋 Hello! I'm Gaspar Mari, a passionate student of Information Systems Engineering in Argentina, with a deep love for programming and software development.<br><br>:bulb: At 21, I'm constantly growing and learning, always seeking opportunities to stand out and contribute to exciting new projects. My goal is to excel in the world of technology, bringing my creativity and technical skills to every challenge I face.<br><br>💻 I'm open to new opportunities and collaborations on innovative projects. Feel free to reach out if you think I could be a valuable addition to your team!
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Gaspaarmari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gasparmari) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Gaspaarmari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gasparmari) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gasparm1202@gmail.com)
+
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,html,js,py,mongodb,mysql,nodejs,django,git" />
+  </a>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gasparmari&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gasparmari&theme=gruvbox&hide_border=false)<br/>
