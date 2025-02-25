@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Gaspar Mari, a passionate student of Information Systems Engineering in Argentina, with a deep love for programming and software development.<br><br>:bulb: At 21, I'm constantly growing and learning, always seeking opportunities to stand out and contribute to exciting new projects. My goal is to excel in the world of technology, bringing my creativity and technical skills to every challenge I face.<br><br>💻 I'm open to new opportunities and collaborations on innovative projects. Feel free to reach out if you think I could be a valuable addition to your team!
+👋 Hello! I'm Gaspar Mari, a passionate student of Information Systems Engineering in Argentina, with a deep love for programming and software development.<br><br>:bulb: At 22, I'm constantly growing and learning, always seeking opportunities to stand out and contribute to exciting new projects. My goal is to excel in the world of technology, bringing my creativity and technical skills to every challenge I face.<br><br>💻 I'm open to new opportunities and collaborations on innovative projects. Feel free to reach out if you think I could be a valuable addition to your team!
 
 
 ## 🌐 Socials:
